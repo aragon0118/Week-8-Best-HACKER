@@ -31,7 +31,7 @@ Vulnerability #2: SQL Injection: I used the hint (blind ejection example) give b
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration:
 
 Vulnerability #2: __________________
 
