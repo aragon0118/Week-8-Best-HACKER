@@ -31,7 +31,11 @@ Vulnerability #2: SQL Injection: I used the hint (blind ejection example) give b
 
 ## Green
 
-Vulnerability #1: Username Enumeration:
+Vulnerability #1: Username Enumeration:I used the existing username given by codepath.
+```
+username "jmonroe99"
+```
+![](https://github.com/aragon0118/Week-8-Best-HACKER/blob/master/Username%20Enumeration%20Week%208.gif)
 
 Vulnerability #2: __________________
 
