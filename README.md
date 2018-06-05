@@ -16,8 +16,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: Session Hijacking/Fixation
-![]( )
+Vulnerability #1: Session Hijacking/Fixation: I inserted the script given by codepath.
+![](https://github.com/aragon0118/Week-8-Best-HACKER/blob/master/Session%20Hijacking%20Week%208.gif)
 
 Vulnerability #2: __________________
 
