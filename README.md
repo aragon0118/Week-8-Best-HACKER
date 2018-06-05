@@ -19,7 +19,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: Session Hijacking/Fixation: I inserted the script given by codepath and changed the session ID.
 ![](https://github.com/aragon0118/Week-8-Best-HACKER/blob/master/Session%20Hijacking%20Week%208.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: SQL Injection: I used the hint (blind ejection example) give by codepath.
+
+![]( )
 
 
 ## Green
