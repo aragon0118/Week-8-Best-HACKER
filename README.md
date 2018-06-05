@@ -26,7 +26,7 @@ Vulnerability #2: SQL Injection: I used the hint (blind ejection example) give b
 ```
 ' OR SLEEP(5)=0--' 
 ```
-![]( )
+![](https://github.com/aragon0118/Week-8-Best-HACKER/blob/master/SQL%20Week%208.gif)
 
 
 ## Green
