@@ -49,7 +49,8 @@ Vulnerability #1: Insecure Direct Object Refernce (IDOR):The red site returned s
 
 ![](https://github.com/aragon0118/Week-8-Best-HACKER/blob/master/IDOR%20Week%208.gif)
 
-Vulnerability #2: Cross-Site Request Forgery (CSRF):
+Vulnerability #2: Cross-Site Request Forgery (CSRF)
+![](https://github.com/aragon0118/Week-8-Best-HACKER/blob/master/CSRF%20Week%208.gif)
 
 
 
