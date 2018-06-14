@@ -37,7 +37,7 @@ username "jmonroe99"
 ```
 ![](https://github.com/aragon0118/Week-8-Best-HACKER/blob/master/Username%20Enumeration%20Week%208.gif)
 
-Vulnerability #2: Cross-Site Scripting (XSS):
+Vulnerability #2: Cross-Site Scripting (XSS): I used the script provided by codepath.
 ```
 <script>alert('Mallory found the XSS!');</script>
 ```
@@ -45,7 +45,9 @@ Vulnerability #2: Cross-Site Scripting (XSS):
 
 ## Red
 
-Vulnerability #1: Insecure Direct Object Refernce (IDOR):
+Vulnerability #1: Insecure Direct Object Refernce (IDOR):The red site returned sensitive information after ID=9.
+
+![](https://github.com/aragon0118/Week-8-Best-HACKER/blob/master/IDOR%20Week%208.gif)
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF):
 
