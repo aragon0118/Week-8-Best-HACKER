@@ -41,7 +41,7 @@ Vulnerability #2: Cross-Site Scripting (XSS):
 ```
 <script>alert('Mallory found the XSS!');</script>
 ```
-![]( )
+![](https://github.com/aragon0118/Week-8-Best-HACKER/blob/master/XSS%20Week%208.gif)
 
 ## Red
 
